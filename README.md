@@ -13,9 +13,9 @@ A bit of explanation. The -td 1 parameter is an abbreviation for ToDo, and 1 ind
 
 4.**Working with LLM.**
    
-While in the same folder, type: llm.exe -td 2, which means for llm that it needs to enter the conversation mode with the user.
+While in the same folder, type: llm.exe -td 2, which means for llm that it needs to enter to the conversation mode with the user.
 
-llm gives an invitation to start communication, below is the dialogue of your communication with llm through the console:
+llm gives an invitation to start communication, below is the sample of the dialogue of your communication with llm through the console:
 
 user:->1+1=<enter>
 
@@ -31,7 +31,7 @@ llm:result:4
 
 llm:error:word u could not be evaluated
 
-Explanations. Yes, you (under my supervision) made a mistake - it happens. We are correcting it.
+Explanations. Yes, you (under my supervision) made a mistake - it happens. Now we are going to correct it.
 
 user:2+8=<enter>
 
