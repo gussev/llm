@@ -20,35 +20,37 @@ While in the same folder, type: llm.exe -td 2, which means for llm that it needs
 
 llm gives an invitation to start communication, below is the sample of the dialogue of your communication with llm through the console:
 
-user:->1+1=<**enter**>
+user:->1+1=<**press enter**>
 
 llm: typed 1+1
 
 llm: result: =3
 
-user:2+2=<**enter**>
+user:2+2=<**press enter**>
 
 llm:result:4
 
-2+u=<**enter**>
+2+u=<**press enter**>
 
 llm:error:word u could not be evaluated
 
 Explanations. Yes, you (under my supervision) made a mistake - it happens. Now we are going to correct it.
 
-user:2+8=<**enter**>
+user:2+8=<**press enter**>
 
 llm:result:10
 
 Now you can test llm's work with words, not just numbers.
 
-user: nil plus nil equals <**enter**>
+user: nil plus nil equals <**pres enter**>
 
 llm: result nil
 
-user: eight plus eight equals<**enter**>
+user: eight plus eight equals <**press enter**>
 
 llm: result:sixteen
+
+to exit the program type **exit** end press <**enter**>
 
 5. **Setting up llm operation using the config.json file**
    
