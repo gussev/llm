@@ -2,7 +2,7 @@ LLM - Large Language Model. ( this page is under construction :-))
 
 **For whom.**
 
-For some reason you don't want to work with open or commercial LLMs. And you don't want to understand the areas that tell you how to build a LLM yourself. Then this corner of the Internet is for you. It's not that complicated. First, let's look at a ready-made LLM, it is intentionally made very, very, very simple.
+For some reason you don't want to work with open or commercial LLMs. And you don't want to understand the areas that tell you how to build a LLM yourself. Then this corner of the Internet is for you. It's not that complicated. First, let's look at a ready-made LLM, it is intentionally made very, very, very simple. Someone great said that all models are wrong, but some of can be used. Create your own data to work with LLM.  And it's all Free of charge.
 
 **To start**
 
@@ -68,11 +68,11 @@ You have 2 parameters available:
 
 ⦁	teller - "tries" to maintain a "conversation" with you by choosing the last word of the previous sentence to begin a new one.
 
-6. Well, now you know everything to create data for setting up your own llm. It's up to you. Experiment as you wish. And it's all Free of charge.
+6. Well, now you know everything to create data for setting up your own llm. It's up to you. Experiment as you wish.
     
-7. **Memo**. The program is written in Go for Windows 10, there is no multithreading, the data for llm is located all in RAM. There is a plan for its further development.
+7. **Memo**. The program is written in Go for Windows 10, there is no multithreading, the data for llm is located entirely in RAM. And there is a plan for its further development.
    
-8. If you find any **error** and wish to send me a description, please provide a set of data where possible to reproduce the bug. I will say thank you.
-   
+8. If you find any **error** and wish to send me a description, please provide a set of data where it is possible to reproduce the bug. That would be very kind.
+
 9. In case there is a **modification** you need, drop me a message.
 
