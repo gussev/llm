@@ -2,7 +2,7 @@ LLM - Large Language Model. ( this page is under construction :-))
 
 **For whom.**
 
-For some reason you don't want to work with open or commercial LLMs. And you don't want to understand the areas that tell you how to build a LLM yourself. Then this corner of the Internet is for you. It's not that complicated. First, let's look at a ready-made LLM, it is intentionally made very, very, very simple. Someone great said that all models are wrong, but some of can be used. Create your own data to work with LLM.  And it's all Free of charge.
+For some reason you don't want to work with open or commercial LLMs. And you don't want to understand the areas that tell you how to build a LLM by yourself. Then this corner of the Internet is for you. It's not that complicated. First, let's look at a ready-made LLM, it is intentionally made very, very, very simple. Someone great said that all models are wrong, but some of can be used. Create your own data to work with LLM.  And it's all Free of charge.
 
 **To start**
 
