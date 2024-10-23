@@ -42,7 +42,7 @@ llm:result:10
 
 Now you can test llm's work with words, not just numbers.
 
-user: nil plus nil equals <**pres enter**>
+user: nil plus nil equals <**press enter**>
 
 llm: result nil
 
