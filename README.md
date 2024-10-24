@@ -2,7 +2,7 @@ LLM - Large Language Model. ( this page is under construction :-))
 
 **For whom.**
 
-For some reason you don't want to work with open or commercial LLMs or you don't want to understand the areas that tell you how to build a LLM by yourself, it is possible you just wonna to build your own data to work with LLM. Someone of great said that all models are wrong, but some of can be used. Then this corner of the Internet is for you. It's not that complicated. First, let's look at a ready-made LLM, it is intentionally made very, very, very simple. And it's all Free of charge.
+For some reason you don't want to work with open or commercial LLMs or you don't want to understand the areas that tell you how to build a LLM by yourself, it is possible you just wonna to build your own data to work with LLM. Someone of the brightest said that all models are wrong, but some of can be used. Then this corner of the Internet is for you. It's not that complicated. First, let's look at a ready-made LLM, it is intentionally made very, very, very simple. And it's all Free of charge.
 
 **To start**
 
@@ -77,4 +77,6 @@ You have 2 parameters available:
 8. If you find any **error** and wish to send me a description, please provide a set of data where it is possible to reproduce the bug. That would be very kind.
 
 9. In case there is a **modification** you need, drop me a message. mail:gussev@hotmail.com
+
+10. English is not my first language, so sorry for inconvenience.
 
