@@ -18,7 +18,7 @@ A bit of explanation. The -td 1 parameter is an abbreviation for ToDo, and 1 ind
    
 While in the same folder, type: llm.exe -td 2, which means for llm that it needs to enter to the conversation mode with the user.
 
-llm gives an invitation to start communication, below is the sample of the dialogue of your communication with llm through the console:
+llm gives out an invitation to start communication, below is the sample of the dialogue of your communication with llm through the console:
 
 user:->1+1=<**press enter**>
 
@@ -40,7 +40,7 @@ user:2+8=<**press enter**>
 
 llm:result:10
 
-Now you can test llm's work with words, not just numbers.
+Now you can test llms work with words, not just numbers.
 
 user: nil plus nil equals <**press enter**>
 
@@ -76,7 +76,7 @@ You have 2 parameters available:
    
 8. If you find any **error** and wish to send me a description, please provide a set of data where it is possible to reproduce the bug. That would be very kind.
 
-9. In case there is a **modification** you need, drop me a message. mail:gussev@hotmail.com
+9. In case there is a **modification** you need, drop me a message. mail:gussev@hotmail.com , but remember, I have my own plan. :-)
 
 10. English is not my first language, so sorry for inconvenience.
 
