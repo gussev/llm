@@ -10,7 +10,7 @@ For some reason you don't want to work with open or commercial LLMs or you don't
 2. **Unzip archive.**
 3. **LLM training.**
    
-We perform LLM training on ready-made data, this is a very important part of your work. The data set for training is in the textbook folder in the form of text files that simulate arithmetic operations from 0 + 0 = 0 to 9 + 9 = 18 in the format of numbers and words. The format of the records can be viewed by opening any file from the textbook folder in your editor. For llm training, go to the builder folder, launch the console in the folder and type in the console: llm.exe -td 1. The data.txt file should appear in the brains folder, which contains the data on the basis of which llm will communicate with you.
+We perform LLM training on ready-made data, this is a very important part of your work. The data set for training is in the textbook folder in the form of text files that simulate arithmetic operations from 0 + 0 = 0 to 9 + 9 = 18 in the format of numbers and words. The format of the records can be viewed by opening any file from the textbook folder in your editor. For llm training, go to the builder folder, launch the console in the folder and type in the console: llm.exe -td 1 or ./llm.exe -td 1. The data.txt file should appear in the brains folder, which contains the data on the basis of which llm will communicate with you.
 
 A bit of explanation. The -td 1 parameter is an abbreviation for ToDo, and 1 indicates that llm should take files from textbook and create data for itself in the brains folder.
 
