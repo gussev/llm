@@ -76,7 +76,7 @@ You have 2 parameters available:
    
 8. If you find any **error** and wish to send me a description, please provide a set of data where it is possible to reproduce the bug. That would be very kind.
 
-9. In case there is a **modification** you need, drop me a message. mail:gussev@hotmail.com , but remember, I have my own plan. :-)
+9. In case there is a **modification** you need, drop me a message. mail:gussev@hotmail.com.
 
 10. English is not my first language, so sorry for inconvenience.
 
