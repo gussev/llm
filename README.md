@@ -78,5 +78,5 @@ You have 2 parameters available:
 
 9. In case there is a **modification** you need or have any curiosity drop me a message. mail:gussev@hotmail.com.
 
-10. English is not my first language, so sorry for inconvenience.
+10. English is not my first language. So, sorry for inconvenience.
 
