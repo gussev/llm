@@ -10,7 +10,7 @@ For some reason you don't want to work with open or commercial LLMs or you don't
 2. **Unzip archive.**
 3. **go into llm folder.**
 4. **Launch console.** 
-Here I have to say a little bit more. I have used 2 type of consoles: **bash**, which one came with **git** and **Windows PowerShell**.
+Here I have to say a little bit more. I have used 2 type of consoles: **bash** and **Windows PowerShell**.
 The subtle problem I have met is that **Up Arrow** button somtimes does not work with bash. So with Windows PowerShell it works all the time. The **Up Arrow** button I use to quickly find already typed sequences of symbols. So far it does not stop me. I don't know what to do with that yet. And I may express just a regret.
 5. **LLM training.**
    
