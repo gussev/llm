@@ -13,6 +13,7 @@ For some reason you don't want to work with open or commercial LLMs or you don't
 
 Here I have to say a little bit more. I have used 2 type of consoles: **bash** and **Windows PowerShell**.
 The odd problem I have met is that **Up Arrow** button somtimes does not work with bash. But with Windows PowerShell it works all the time. The **Up Arrow** button I use to quickly find already typed sequences of words. So far it does not disturb me much.
+
 5. **LLM training.**
    
 We perform LLM training on ready-made data, this is a very important part of your work. The data set for training is in the textbook folder in the form of text files that simulate arithmetic operations from 0 + 0 = 0 to 9 + 9 = 18 in the format of numbers and words. The format of the records can be viewed by opening any file from the textbook folder in your editor. For llm training, go into the llm folder in case you are not there yet, launch the console in the llm folder and type in the console: llm.exe -td 1 or ./llm.exe -td 1. The data.txt file should appear in the brains folder, which contains the data on the basis of which llm will communicate with you.
