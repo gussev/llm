@@ -1,4 +1,4 @@
-LLM - Large Language Model. ( this page is under construction :-))
+LLM - Large Language Model.
 
 **For whom.**
 
