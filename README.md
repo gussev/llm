@@ -36,7 +36,7 @@ user:2+2=<**press enter**>
 
 llm:result:4
 
-2+u=<**press enter**>
+user: 2+u=<**press enter**>
 
 llm:error:word u could not be evaluated
 
@@ -50,13 +50,13 @@ Now you can test llms work with words, not just numbers.
 
 user: nil plus nil equals <**press enter**>
 
-llm: result nil
+llm: result: nil
 
 user: eight plus eight equals <**press enter**>
 
 llm: result:sixteen
 
-to exit the program type **exit** end press <**enter**>
+to leave the program type **exit** end press <**enter**>
 
 7. **Setting up llm operation using the config.txt file**
 
