@@ -83,7 +83,7 @@ You have 2 parameters available:
 
 9. The client use just 3 parameters, the new one is the text the server should process. The name of the parameter is **parse**. The rest of them are two: **evaluator** and **chatter**, read point 7.
     
-10. When llm is running in http server mode, you need to tell llm what type of **evaluator** and **chatter** it should use in each request. 
+10. When llm is running in http server mode, you need to tell to the llm what type of evaluator and chatter llm should use for each request. In that case LLM  does not pay attention to the content of the config.txt file.
 
 11. To run llm in http server mode, you need to enter: **./llm.exe -td 3** in the console running in the llm subfolder. There is a keyword in the configuration file that specifies a port number that you may use, the default is 8080. The client should use the same port number of course.
 
