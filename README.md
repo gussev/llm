@@ -82,17 +82,19 @@ You have 2 parameters available:
 8. Now you may communicate with LLM via the http port. The  sample of the client was added to the zip file. It is possible to see it in the **client** subfolder.
 
 9. The client use just 3 parameters, the new one is the text the server should process. The name of the parameter is **parse**. The rest of them are two: **evaluator** and **chatter**, read point 7.
-    
-10. When llm is running in http server mode, you need to tell to the llm what type of evaluator and chatter llm should use for each request. In that case LLM  does not pay attention to the content of the config.txt file.
 
-11. To run llm in http server mode, you need to enter: **./llm.exe -td 3** in the console running in the llm subfolder. There is a keyword in the configuration file that specifies a port number that you may use, the default is 8080. The client should use the same port number of course.
-
-12. Well, now you know everything to create data for setting up your own llm. It's up to you. Experiment as you wish.
+10.  The response has 3 parameters to be processed by the client: error, result and last. By use them you able to build your communication with LLM.
     
-13. **Memo**. The program is written in Go for Windows 10, there is no multithreading, the data for llm is located entirely in RAM. And there is a plan for its further development.
+11. When llm is running in http server mode, you need to tell to the llm what type of evaluator and chatter llm should use for each request. In that case LLM  does not pay attention to the content of the config.txt file.
+
+12. To run llm in http server mode, you need to enter: **./llm.exe -td 3** in the console running in the llm subfolder. There is a keyword in the configuration file that specifies a port number that you may use, the default is 8080. The client should use the same port number of course.
+
+13. Well, now you know everything to create data for setting up your own llm. It's up to you. Experiment as you wish.
+    
+14. **Memo**. The program is written in Go for Windows 10, there is no multithreading, the data for llm is located entirely in RAM. And there is a plan for its further development.
    
-14. If you find any **error** and wish to send me a description, please provide a set of data where it is possible to reproduce the bug. That would be very kind.
+15. If you find any **error** and wish to send me a description, please provide a set of data where it is possible to reproduce the bug. That would be very kind.
 
-15. In case there is a **modification** you need or have any curiosity drop me a message. mail:gussev@hotmail.com
+16. In case there is a **modification** you need or have any curiosity drop me a message. mail:gussev@hotmail.com
 
-16. English is not my first language. So, sorry for inconvenience.
+17. English is not my first language. So, sorry for inconvenience.
