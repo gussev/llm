@@ -1,5 +1,7 @@
 LLM - Large Language Model.
 
+**News**: http port / client has been added. Read further point 8.
+
 **For whom.**
 
 For some reason you don't want to work with open or commercial LLMs or you don't want to understand the knowledge in areas that tell you how to build a LLM by yourself, it is possible you just wonna to build your own data to work with LLM. Someone of the brightest said that all models are wrong, but some of can be used. Then this corner of the Internet is for you. It's not that complicated. But first, let's look at a ready-made LLM, it is intentionally was made very simplified. And it's all free of charge.
@@ -77,12 +79,18 @@ You have 2 parameters available:
 
 ⦁	teller - "tries" to maintain a "conversation" with you by choosing the last word of the previous sentence to begin a new one.
 
-8. Well, now you know everything to create data for setting up your own llm. It's up to you. Experiment as you wish.
+8. Now you may communicate with LLM via the http port. The  sample of the client was added to the zip file. It is possible to see it in the **client** subfolder.
+
+9. The client use just 3 parameters, the new one is the text the server should process. The name of the parameter is **parse**. The rest of them are two: evaluator and chatter, read point 7. 
+
+10. To run llm in http server mode, you need to enter: **./llm.exe -td 3** in the console running in the llm subfolder. There is a keyword in the configuration file that specifies a port number that you may use, the default is 8080. The client should use the same port number of course.
+
+11. Well, now you know everything to create data for setting up your own llm. It's up to you. Experiment as you wish.
     
-9. **Memo**. The program is written in Go for Windows 10, there is no multithreading, the data for llm is located entirely in RAM. And there is a plan for its further development.
+12. **Memo**. The program is written in Go for Windows 10, there is no multithreading, the data for llm is located entirely in RAM. And there is a plan for its further development.
    
-10. If you find any **error** and wish to send me a description, please provide a set of data where it is possible to reproduce the bug. That would be very kind.
+13. If you find any **error** and wish to send me a description, please provide a set of data where it is possible to reproduce the bug. That would be very kind.
 
-11. In case there is a **modification** you need or have any curiosity drop me a message. mail:gussev@hotmail.com
+14. In case there is a **modification** you need or have any curiosity drop me a message. mail:gussev@hotmail.com
 
-12. English is not my first language. So, sorry for inconvenience.
+15. English is not my first language. So, sorry for inconvenience.
